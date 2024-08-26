@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bem-vindos ao meu perfil ❤️
 
-<!--
-**juless187/juless187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Julia de Novais
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## Você pode entrar em contato comigo 📧
+
+  0000111003989xsp@al.educacao.sp.gov.br
+
+  ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBjMDJjMnhtaHk2MWx6cXZuOXpwZ2hqbzZpbnQ4bDBlYnQycjAzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b07clVdSOQcSY/giphy.webp)
